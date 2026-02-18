@@ -28,5 +28,4 @@ Working on a programming language called **Emerald** with **@Sushi-byte-glitch**
   <li>HTML, CSS, JS, and TS</li>
 </ul>
 
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </details>
